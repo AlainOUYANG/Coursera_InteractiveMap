@@ -1,4 +1,4 @@
-= Coursera_InteractiveMap
+# Coursera_InteractiveMap
 
 This is an interactive map displaying earthquake data.
 
